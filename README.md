@@ -8,7 +8,12 @@
 
 ## Link a libreta de código (Google Collab)
 **ST2:** https://colab.research.google.com/drive/1B32N4S16UCR2bhbsWBVw0L6QqgEqCrwM?usp=sharing
+
 **ST3:** https://colab.research.google.com/drive/1hHy71dpub8GBxyn_SJNnkKNyWBSc9dSZ?usp=sharing
+
+**ST4:** https://colab.research.google.com/drive/1tvVzhUbOm-_R-edPmFmAiKKgIMO9mzBH?usp=sharing
+
+**ST5:** https://colab.research.google.com/drive/1xZK6D43KZ4YWGEcwo8491wCnUNorVx_T?usp=sharing
 
 ## Referencias
 - https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=anime.csv
